@@ -1,6 +1,5 @@
-<p align="center">Bem-vindo ao meu perfil GitHub!</p>
-<br>
-<p>Let's build from here!</p>
+<p align="left">Bem-vindo ao meu perfil GitHub!</p>
+<p align="left">Let's build from here!</p>
 
 ###
 
