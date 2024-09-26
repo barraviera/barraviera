@@ -14,5 +14,5 @@
 </div>
 <hr/>
 <h3 align="center">Contatos</h3>
-<p align="center">E-mail: thiagobarraviera@gmail.com</p>
+<p align="center">E-mail: <a href="mailto:thiagobarraviera@gmail.com">thiagobarraviera@gmail.com</a></p>
 
