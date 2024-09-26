@@ -12,5 +12,8 @@
   <h3 align="center">Linguagens mais usadas</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=barraviera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2&custom_title=Most%20Used%20Languages" height="200" alt="languages graph"  />
 </div>
-
+<hr/>
+<h3 align="center">Contatos</h3>
+<p>E-mail: thiagobarraviera@gmail.com</p>
+<p>Discord: thiagobarraviera@gmail.com</p>
 
