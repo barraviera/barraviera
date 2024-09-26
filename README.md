@@ -11,6 +11,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/barraviera/barraviera/output/snake.svg" alt="Snake animation" />
-
-###
