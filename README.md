@@ -14,6 +14,5 @@
 </div>
 <hr/>
 <h3 align="center">Contatos</h3>
-<p>E-mail: thiagobarraviera@gmail.com</p>
-<p>Discord: thiagobarraviera@gmail.com</p>
+<p align="center">E-mail: thiagobarraviera@gmail.com</p>
 
